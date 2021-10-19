@@ -1,0 +1,6 @@
+//OBJ_wall = solid;
+
+
+	
+
+ 
